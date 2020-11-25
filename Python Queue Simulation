@@ -1,0 +1,10 @@
+names = []        
+for x in range(0 , 10):
+    Name = input("Enter Name : ") 
+      names.append(acceptedName) #append
+
+
+for x in range(0 , 10):
+    print(names.pop(0)) #dequeue 
+
+                
