@@ -1,4 +1,4 @@
-names = [Joseph, Andrea, Samuel, Taylor, Lauren, Ashley, James, Tommy, Roland, Tom ]        
+names = []        
 for x in range(0 , 10):
     Name = input("Enter Name : ") 
       names.append(acceptedName) #append
